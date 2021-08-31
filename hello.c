@@ -12,5 +12,8 @@
      printf("Leo Merrill...\n");
      printf("Computer Science\n");
 
+     printf("Alex Busch\n");
+     printf("Computer Science\n");
+
      return 0;
  }
